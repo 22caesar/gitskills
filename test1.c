@@ -1,11 +1,6 @@
-sas
-s
-sd
-
-sdc
-ds
-xs
-csd
-c
-sdc
-sd
+#include <stdio.h>
+int main(int argc, const char *argv[])
+{
+	printf("hello world\n");
+	return 0;
+}
